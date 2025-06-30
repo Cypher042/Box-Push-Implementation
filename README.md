@@ -28,7 +28,7 @@ This is my simple implementation of the classic box-pushing puzzle game **Sokoba
 
 1. Clone this repo:
    ```bash
-   git clone [https://github.com/your-username/sokoban.git](https://github.com/Cypher042/Box-Push-Implementation)
+   git clone https://github.com/Cypher042/Box-Push-Implementation
    cd sokoban
    ```
 
