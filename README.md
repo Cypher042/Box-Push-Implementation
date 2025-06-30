@@ -1,5 +1,5 @@
 
-Box Pushing Game (Terminal Implemetation)
+# Box Pushing Game (Terminal Implemetation)
 
 This is my simple implementation of the classic box-pushing puzzle game **Sokoban** using C++.
 
